@@ -1,0 +1,2 @@
+# Top_10_countries_in_Europe_in_medicine_consumption
+[Top_10_countries_in_Europe_consuming_more_medicine.csv](https://github.com/user-attachments/files/16758377/Top_10_countries_in_Europe_consuming_more_medicine.csv)
